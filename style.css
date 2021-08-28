@@ -63,7 +63,7 @@ fieldset
 {
     display: block;
     margin: auto;
-    background-image: url('img copy/list-bg.png');
+    background-image: url('img/list-bg.png');
     width: 50%;
     height: 150px;
 }
@@ -127,7 +127,7 @@ footer
 
 .list
 {
-    background-image: url(img copy/list-bg.png);
+    background-image: url(img/list-bg.png);
     position: relative;
     left:10px;
     height: 200px;
